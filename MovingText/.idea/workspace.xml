@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccba24b3-7337-480d-922b-50f4c6db3df6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLt6oaogBDpOKsc27XMKokpNDT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager" selected="Application.Grafik01">
+    <configuration name="Grafik01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Grafik01" />
+      <module name="Day3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mouse1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mouse1" />
+      <module name="Day3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Grafik01" />
+        <item itemvalue="Application.Mouse1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccba24b3-7337-480d-922b-50f4c6db3df6" name="Default Changelist" comment="" />
+      <created>1582733529448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582733529448</updated>
+      <workItem from="1582733535132" duration="1130000" />
+      <workItem from="1582809314143" duration="13000" />
+      <workItem from="1582809367648" duration="1317000" />
+      <workItem from="1582810964840" duration="1032000" />
+      <workItem from="1582812056688" duration="2824000" />
+      <workItem from="1582826261458" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="810" y="449" width="296" height="213" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582733552222">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="810" y="449" width="296" height="213" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1582733552222" />
+    <state x="263" y="314" width="430" height="481" key="FileChooserDialogImpl" timestamp="1582809473136">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="263" y="314" width="430" height="481" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1582809473136" />
+    <state width="1874" height="154" key="GridCell.Tab.0.bottom" timestamp="1582814880433">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1874" height="154" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1582814880433" />
+    <state width="1874" height="154" key="GridCell.Tab.0.center" timestamp="1582814880433">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1874" height="154" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1582814880433" />
+    <state width="1874" height="154" key="GridCell.Tab.0.left" timestamp="1582814880433">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1874" height="154" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1582814880433" />
+    <state width="1874" height="154" key="GridCell.Tab.0.right" timestamp="1582814880433">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="1874" height="154" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1582814880433" />
+    <state x="-13" y="180" key="SettingsEditor" timestamp="1582826497856">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="-13" y="180" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1582826497856" />
+    <state x="621" y="256" key="run.anything.popup" timestamp="1582812416897">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="621" y="256" key="run.anything.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1582812416897" />
+  </component>
+</project>

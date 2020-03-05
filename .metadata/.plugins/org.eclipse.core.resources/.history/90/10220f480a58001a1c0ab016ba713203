@@ -1,0 +1,11 @@
+
+public class yanClass {
+	int valX;
+	public yanClass(int x)
+	{
+		valX = x;
+	}
+	int getValX() {
+		return this.valX;
+	}
+}

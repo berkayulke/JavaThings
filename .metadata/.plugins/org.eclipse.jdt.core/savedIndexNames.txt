@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/berkay/Desktop/Git/Java/.metadata/.plugins/org.eclipse.jdt.core
+127473599.index
